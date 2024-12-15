@@ -145,8 +145,8 @@ Feel free to explore the code and provide feedback. Let me know if you'd like to
 If you have any questions or opportunities, feel free to reach out:
 
 - **Email**: [ajinkyabh2203@gmail.com](mailto:ajinkyabh2203@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ajinkyabh2203](linkedin.com/in/ajinkyabh2203)
-- **GitHub**: [github.com/ajinkyabh2203](github.com/ajinkyabh2203)
+- **LinkedIn**: [linkedin.com/in/ajinkyabh2203](https://linkedin.com/in/ajinkyabh2203)
+- **GitHub**: [github.com/ajinkyabh2203](https://github.com/ajinkyabh2203)
 
 ---
 
